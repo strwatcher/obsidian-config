@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "vimMode": true,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Knowledge Base",
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ],
+  "spellcheck": true
+}
